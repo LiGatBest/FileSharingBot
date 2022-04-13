@@ -1,7 +1,7 @@
 # Credits: ask yourself why im doing this..
 # becoz u make adjustment and i did not get
 # what i want.. 
-# FROM File-Sharing-Man <https://github.com/LiGatBest/File-Sharing-Man/>
+# FROM FileSharingBot <https://github.com/LiGatBest/FileSharingBot/>
 # t.me/UnlimitedTrusted & t.me/TekanSiniLah
 
 from config import FORCE_SUB_CHANNEL, FORCE_SUB_GROUP
